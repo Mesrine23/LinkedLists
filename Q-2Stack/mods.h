@@ -1,0 +1,1 @@
+int fQueue(int *,int);
